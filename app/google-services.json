@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349229194782",
+    "project_id": "login-da8de",
+    "storage_bucket": "login-da8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349229194782:android:a37bf01734e7ace07b980f",
+        "android_client_info": {
+          "package_name": "com.sgn.apps.logintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349229194782-imf3jk61kiohhljtb44gaohr7jc933ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3q3E_4aGrIM3UbUoqeu15BxRXplayGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349229194782-imf3jk61kiohhljtb44gaohr7jc933ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

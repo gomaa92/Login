@@ -1,0 +1,16 @@
+package com.sgn.apps.logintask.presentation.util
+
+enum class ValidationErrorCode {
+    VALID_EMAIL,
+    EMPTY_EMAIL,
+    INVALID_EMAIL,
+
+    VALID_PASSWORD,
+    INVALID_PASSWORD,
+    EMPTY_PASSWORD,
+    INVALID_START_WITH_DIGIT,
+    INVALID_ALLOW_SPECIAL_CHARACTERS,
+    INVALID_LIMIT_PASSWORD,
+    INVALID_AT_LEAST_ONE_DIGIT,
+
+}

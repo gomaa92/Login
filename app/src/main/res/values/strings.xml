@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginTask</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sing_in_to_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_has_been_done_sucessfully">Login has been done successfully</string>
+    <string name="login">Login</string>
+    <string name="empty_email">Email can\'t be Empty</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="empty_password">Password can\'t be Empty</string>
+    <string name="invalid_password">Password isn\'t Valid</string>
+    <string name="start_with_digit">Password cannot start with digits or any special characters</string>
+    <string name="allow_special_characters">Allowed special characters are (! @ # $ %)</string>
+    <string name="limit_password">The password should be between 7 to 15 characters and numbers</string>
+    <string name="at_least_one_digit">The password must contain at least one digit</string>
+    <string name="sign_in_with_gmail">Sign in with gmail</string>
+</resources>
